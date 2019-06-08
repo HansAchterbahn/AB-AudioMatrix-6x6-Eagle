@@ -3,10 +3,10 @@ Aktive Audio-Matrix (6x6), welche 6 Eingangskanäle auf 6 Ausgangskanäle abbild
 
 Active audio matrix (6x6), which can map 6 input channels to 6 output channels. Connection via 3.5 jack cable. Compatible with line signals (aux, headphones, active speakers, ...).
 
-###### Kollage Audio Matrix Emmelie v3.2
+###### Audio Matrix
 
-![Foto: Kollage Audio Matrix Emmelie v3.2](Doku/Audio-Matrix-Emmelie-v3.2-Kollage.jpg)
+![Foto: Collage Audio Matrix](Doku/Audio-Matrix-Emmelie-v3.2-Collage.jpg)
 
-###### Das innere der Audio Matrix Emmelie v3.2
+###### Das innere der Audio Matrix
 
-![Foto: Das innere der Audio Matrix Emmelie v3.2](Doku/Audio-Matrix-Emmelie-v3.2-Einblicke.jpg)
+![Foto: Das innere der Audio Matrix](Doku/Audio-Matrix-Emmelie-v3.2-Einblicke.jpg)
