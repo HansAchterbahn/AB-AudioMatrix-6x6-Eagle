@@ -7,11 +7,7 @@ Active audio matrix (6x6), which can map 6 input channels to 6 output channels. 
 
 ## Pictures
 
-###### Audio Matrix
-
 ![Foto: Collage Audio Matrix](doku/Audio-Matrix-Emmelie-v3.2-Collage.jpg)
-
-###### Das innere der Audio Matrix
 
 ![Foto: Das innere der Audio Matrix](doku/Audio-Matrix-Emmelie-v3.2-Einblicke.jpg)
 
